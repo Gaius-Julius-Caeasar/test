@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: org.sonatype.aether:aether-api:1.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonatype/aether/aether-api/1.7/aether-api-1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

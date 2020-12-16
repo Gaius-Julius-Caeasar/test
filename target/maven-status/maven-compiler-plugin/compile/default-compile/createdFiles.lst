@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\Common\SwaggerConfig.class
+com\example\demo\web\image_recognition\ImageRecognitionController.class
+com\example\demo\service\image_recognition\impl\ImageRecognitionImpl.class
+com\example\demo\service\image_recognition\ImageRecognition.class
